@@ -23,15 +23,12 @@ organizations:
     url: https://www.upwork.com/freelancers/~012a9eb37a1785f492
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBA
+      institution: FAST NUCES
+      year: ""
+    - course: "BBA Hons. "
+      institution: Hajvery Univerisity
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
