@@ -1,7 +1,7 @@
 ---
 title: Azeem Ahmad
 role: Medical Coding and Billing Specialist
-avatar_filename: 1581283276210.jpg
+avatar_filename: avatar.jpg.jpg
 bio: If you need an experienced Medical Coding and Billing Specialist, so your
   search ends here. I'm here to provide you exceptional services.
 interests:
